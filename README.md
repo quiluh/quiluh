@@ -1,7 +1,7 @@
 ## clyde mesa
 ## born 17/04/2009
 ## i like learning about new things but particularly about how to apply them effectively so theyre useful
-## im currently studying l3 calculus, l3 stats, l3 physics, l2 japanese, l2 computer studies.
+## im currently studying l3 + scholarship calculus, l3 + scholarship stats, l3 + scholarship physics, l2 japanese, l2 computer studies.
 ## i play volleyball
 ## i like making friends cuz its fun
 
